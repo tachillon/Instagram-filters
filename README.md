@@ -50,7 +50,6 @@ Baccarat_rouge.png/
 ├─ filters/
 │  ├─ Clarendon.jpeg
 ```
-Caution: models to detect/classify objects are not provided. 
 
 <!-- CONTRIBUTING -->
 ## Contributing
