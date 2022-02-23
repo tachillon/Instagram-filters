@@ -41,7 +41,7 @@ cd Instagram-filters && docker build -t instagramfilters:1 .
 <!-- USAGE EXAMPLES -->
 ## Usage
 ```sh
-docker run --rm -it -v "/path/to/Instagram-filters:/tmp" instagramfilers:1 python3 /tmp/main.py --imgpath "/tmp/Baccarat_rouge.png" --filter "Clarendon"
+docker run --rm -it -v "/path/to/Instagram-filters:/tmp" instagramfilters:1 python3 /tmp/main.py --imgpath "/tmp/Baccarat_rouge.png" --filter "Clarendon"
 ```
 ```
 Dockerfile        /
